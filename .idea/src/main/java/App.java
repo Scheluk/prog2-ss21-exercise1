@@ -5,7 +5,7 @@ public class App {
 
     public static int fuelPerModule(int mass) {
         if(mass >= 6) return mass / 3 - 2;
-        return -1;
+        return 0;
     }
 
     public static int fuelAndExtraFuelPerModule(int mass) {

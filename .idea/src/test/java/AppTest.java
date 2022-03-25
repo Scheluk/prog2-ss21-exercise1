@@ -33,12 +33,12 @@ class AppTest {
 
     @Test
     void fuelPerModule5() {
-        assertEquals(App.fuelPerModule(666), 220);
+        assertEquals(App.fuelPerModule(3), 0);
     }
 
     @Test
     void fuelPerModule6() {
-        assertEquals(App.fuelPerModule(-69), -1);
+        assertEquals(App.fuelPerModule(-69), 0);
     }
 
     @Test
