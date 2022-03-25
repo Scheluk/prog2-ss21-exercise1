@@ -1,3 +1,8 @@
+/**
+ * Link to Repo:
+ * https://github.com/Scheluk/prog2-ss21-exercise1
+ */
+
 import org.junit.jupiter.api.Test;
 
 import java.lang.invoke.WrongMethodTypeException;
